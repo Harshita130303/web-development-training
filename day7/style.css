@@ -3,15 +3,20 @@ img{
     height: 120px;
     border-radius: 100%;
 }
-.y{
+.yy{
     position: fixed;
     left: 150px;
     top: 250px;
 
     
 }
-.yy{
+.yyy{
     position: sticky;
-    right: 200px;
-    left: 80px;
+    right: 100px;
+    left: 50px;
+}
+.yyyy{
+    position: fixed;
+    top: 100px;
+    bottom: 50px;
 }
