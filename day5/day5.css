@@ -1,0 +1,34 @@
+body{
+    color:rgb(61, 37, 6);
+    background-color: rgb(229, 206, 171);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+/* class selector */
+.first{
+    color:aqua;
+}
+.large{
+    font-size: 30px;
+}
+/* id selector */
+#eklist{
+    background-color: rgb(160, 109, 33);
+}
+/* attribute select */
+a[href="upflairs.com"]{
+    color:blue;
+    text-decoration: double;
+}
+input[type=text]{
+    background-color: brown;
+}
+/* /pseudo seector */
+.first:hover{
+    color: rgb(147, 158, 158);
+}
+/* universal selector */
+*{
+    margin:5%;
+}
+
