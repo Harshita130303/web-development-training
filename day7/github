@@ -2,3 +2,4 @@
 git add .
 git commit -m "msg"
 git push origin master
+git clone url copypaste to access the code 
